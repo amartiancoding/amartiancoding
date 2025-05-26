@@ -1,3 +1,4 @@
+<h2>Who am I</h2>
 (rarely) code!
 <h2>Sites i built</h2>
 <a href="https://www.youtube.com/@naotechchefs">Nao Challenge 2025</a>
