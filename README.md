@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there! Welcome!
+# 👋 Hi! Welcome to my profile!
 
 </div>
 
@@ -9,8 +9,8 @@
 ## 👨‍💻 Who am I?
 
 *  **(Rarely) code!** 
-*  🇮🇹 IYPT 2026 team member for Italy;
-*  Member of the **NAOChallenge Techchefs** team for 2024 & 2025
+*  🇮🇹 IYPT 2026 team member for Italy (developed Python numerical simulations);
+*  Member of the **NAOChallenge Techchefs** team for 2024 & 2025 (Web Developer and programmer);
   
 ---
 
